@@ -1,2 +1,2 @@
 # BikeCoin
-Bike Coin Mining Bike System
+Bike Coin Bike's Mining System 
