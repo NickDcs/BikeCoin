@@ -4,7 +4,7 @@ Decentralized, secure transactions.
 # The Idea
 
 BikeCoin aim is to provide a fast and easy way to mine cryptocurrency while biking around.
-Our Integrated Mining System Operator "IMSO" connects to your smart device to your wallet, allowing you to mine BKE and secure the network. 
+Our Integrated Mining System Operator "IMSO" connects to your smart device and wallet, allowing you to mine BKE and secure the network. 
 
 # How It Works
 
