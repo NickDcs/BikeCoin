@@ -12,7 +12,7 @@ Our Integrated Mining System Operator "IMSO" connects to your smart device to yo
 
 # IMSO
 
-IMSO will change the mining game. There are still many limitation on the mining world that scare user away. BikeCoin is working on eliminating those limitation and provide an easy way to mine at almost zero cost. 
+IMSO is changing the mining game. There are still many limitation on the mining world that scare users away. BikeCoin is working on eliminating those limitation and provide an easy way to mine at almost zero cost. 
 Immagine been able to mine while riding your bike, car, motorcycle, truck ect..
 Mining is still restricted to confine areas, meaning you have to own or rent a space, to be able to setup your own mining system. 
 IMSO is the answer to this problem.  IMSO attached to your bike will take advantage of the momentum to produce energy, just like the old dinamo light, the difference is that there is no direct contact between IMSO and the wheel.
